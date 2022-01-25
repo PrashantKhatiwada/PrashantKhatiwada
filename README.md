@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Prashant Khatiwada
 #### Design and Development
+(https://github.com/PrashantKhatiwada/Random-Files/blob/master/gitBanner.png?raw=true)
 I'm Prashant from Nepal, and I am mainly involved in Design and Development. I am currently in my learning phase and I am really enjoying exploring the programming langauges and their frameworks. I am currently working on with Javascript and its framework React. I also enjoy UI/UX in general.
 
 Skills: REACT / JS / HTML / CSS

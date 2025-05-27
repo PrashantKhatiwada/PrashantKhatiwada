@@ -1,31 +1,40 @@
-### Hi there 👋, I am Prashant Khatiwada
-#### Design and Development
-![I am GitHub Readme Generator's creator](https://github.com/PrashantKhatiwada/Random-Files/blob/master/gitBanner.png?raw=true)
-I'm Prashant from Nepal, and I am mainly involved in Design and Development. I am currently in my learning phase and I am really enjoying exploring the programming langauges and their frameworks. I am currently working on with Javascript and its framework React. I also enjoy UI/UX in general.
+# Hi, I'm Prashant Khatiwada 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🎓 **Student @ Caldwell University**  
+💡 Turning ideas into digital experiences that make a difference.
 
-- 🔭 I’m currently working on **a Hotel website**
+---
 
-- 🌱 I’m currently learning **React JS.**
+## 🚀 About Me
 
-- 📫 Reach me at **pkhatiwada58@gmail.com**
+I'm Prashant Khatiwada, a student developer passionate about tech, creativity, and building tools that solve real problems. Whether it's a hackathon project, a side hustle, or a class assignment, I love turning raw ideas into impactful digital solutions. My best ideas come from chaos.
 
-- 😄 Pronouns: **He/him**
+---
 
-- ⚡ Fun fact **I interact very well.**
+## 🛠️ Tech Stack
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Python, SQL, MongoDB, SupaBase
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrashantKhatiwada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prashantkhatiwada10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/PrashantKhatiwada7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Prashant-Khatiwada)  
+## 🔥 Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKhatiwada)](https://github.com/anuraghazra/github-readme-stats)
+- [**ghush-talika-app**](https://github.com/PrashantKhatiwada/ghush-talika-app)  
+  _A unique app project—check it out!_
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantKhatiwada&show_icons=true)  
+- [**pulse-point**](https://github.com/PrashantKhatiwada/pulsePoint)  
+  _Another cool project solving real-world problems._
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrashantKhatiwada)  
+- [**personal-website-redesigned**](https://github.com/PrashantKhatiwada/portfolio-website-redesigned)  
+  _My digital playground and portfolio._
 
+---
+
+## 🌎 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/prashantkhatiwada10/)
+
+---
+
+> “My best ideas come from chaos.”

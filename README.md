@@ -132,8 +132,8 @@ Before this, I worked as an IT & Media Communications Officer at my university â
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PrashantKhatiwada&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=transparent&text_color=c9d1d9&icon_color=8b949e&title_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashantKhatiwada&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=transparent&text_color=24292f&icon_color=57606a&title_color=24292f" alt="GitHub statistics for PrashantKhatiwada" width="450">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=PrashantKhatiwada&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=transparent&text_color=c9d1d9&icon_color=8b949e&title_color=c9d1d9](https://github-stats-extended.vercel.app/api?username=PrashantKhatiwada&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=swift)">
+  <img src="[https://github-readme-stats.vercel.app/api?username=PrashantKhatiwada&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=transparent&text_color=24292f&icon_color=57606a&title_color=24292f" alt="GitHub statistics for PrashantKhatiwada](https://github-stats-extended.vercel.app/api?username=PrashantKhatiwada&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=swift)" width="450">
 </picture>
 
 ---
